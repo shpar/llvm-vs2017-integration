@@ -2,7 +2,7 @@
 
 ## Update 5.12.2018
 
-This is a simple update to arves100's original repo which sets up LLVM integration in Visual Studio 17 (MSBuild 15.9) for LLVM 8.0.0. Just follow the instructions below and note that you might have to create a symlink cl.exe to the appropriate cland executable in your LLVM installation folder for this to work.
+This is a simple update to arves100's original repo which sets up LLVM integration in Visual Studio 17 (MSBuild 15.9) for LLVM 8.0.0. Just follow the instructions below and note that you might have to create a symlink cl.exe to the appropriate clang executable in your LLVM installation folder for this to work.
 
 ### Automatic Installation
 
